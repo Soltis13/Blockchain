@@ -17,7 +17,9 @@
   Ethereum   
   Ripple/Stellar   
   EOS   
-    https://github.com/EOSEssentials  
+    https://github.com/EOSEssentials
+    http://iang.org/papers/EOS_An_Introduction.pdf
+    
 
 
 ### Getting Started:   
@@ -84,7 +86,8 @@
 ### Setting up a Wallet:   
 
 
-### Online Courses:   
+### Online Courses:  
+  Binance  ( https://www.binance.vision/ )
 
 
 ### Documentaries:   
@@ -94,6 +97,18 @@
 
 
 ### Blogs:   
+  Fresh
+  Bitcoin tech Weekly ( https://bitcointechweekly.com/ )
+  Bitmex Research ( https://blog.bitmex.com/category/research/?lang=en_us )
+  https://medium.com/@cburniske
+  https://thecontrol.co/
+  http://financialcryptography.com/
+  
+  Old
+  https://bitfury.com/docs
+  https://bitslog.wordpress.com/
+  https://medium.com/@elombrozo
+  
 
 
 ### Twitter:   
@@ -105,7 +120,9 @@
 ### Merchant Adoption:   
 
 
-### Advanced Trading:   
+### Advanced Trading: 
+
+  https://avc.com/
 
 
 ### Realtime Exchange Data:   
@@ -118,6 +135,8 @@
 
 
 ### Economics:   
+
+  https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
 
 
 ### Bitcoin Forks:   
