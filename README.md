@@ -4,14 +4,14 @@
 
 ## Notes
   Bitcoin   
-    https://github.com/jashmenn/bitcoin-reading-list
-    https://lopp.net/bitcoin.html
-    https://medium.com/@dwr/digital-currency-reading-list-december-2017-c0e691386b47
-    https://thecontrol.co/crypto-reading-list-c54da8cab26a
-    https://blockchainatberkeley.blog/my-blockchain-reading-list-and-summer-travel-688449897881
-    https://a16z.com/2018/02/10/crypto-readings-resources/
-    https://github.com/blockchainmanc/blockchain-reading-list
-    https://medium.com/@daniel.mason/evergreen-blockchain-reading-list-5c6cba2ed007
+    https://github.com/jashmenn/bitcoin-reading-list   
+    https://lopp.net/bitcoin.html   
+    https://medium.com/@dwr/digital-currency-reading-list-december-2017-c0e691386b47   
+    https://thecontrol.co/crypto-reading-list-c54da8cab26a   
+    https://blockchainatberkeley.blog/my-blockchain-reading-list-and-summer-travel-688449897881   
+    https://a16z.com/2018/02/10/crypto-readings-resources/   
+    https://github.com/blockchainmanc/blockchain-reading-list   
+    https://medium.com/@daniel.mason/evergreen-blockchain-reading-list-5c6cba2ed007   
   
     
   Ethereum   
@@ -21,6 +21,9 @@
 
 
 ### Getting Started:   
+  What is Bitcoin, Blockchain and CryptoCurrenies?
+  
+  Explain Bitcoin like I'm five. (https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833)   
 
 
 ### The History of Bitcoin:   
