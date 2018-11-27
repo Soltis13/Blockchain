@@ -31,11 +31,11 @@
 
    Open Source Development vs privitized development?
   
-  Explain Bitcoin like I'm five. (https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833 )
-  You think money is real.  ( https://medium.com/s/the-crypto-collection/you-dont-understand-bitcoin-because-you-think-money-is-real-5aef45b8e952 )
-  The Crypto Collection ( https://medium.com/s/the-crypto-collection )
-  Bitcoin White paper ( https://lopp.net/pdf/bitcoin.pdf )
-  What does it mean to hold a Bitcoin ( https://www.youtube.com/watch?v=bBC-nXj3Ng4 )
+  Explain Bitcoin like I'm five. (https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833 )   
+  You think money is real.  ( https://medium.com/s/the-crypto-collection/you-dont-understand-bitcoin-because-you-think-money-is-real-5aef45b8e952 )   
+  The Crypto Collection ( https://medium.com/s/the-crypto-collection )   
+  Bitcoin White paper ( https://lopp.net/pdf/bitcoin.pdf )   
+  What does it mean to hold a Bitcoin ( https://www.youtube.com/watch?v=bBC-nXj3Ng4 )   
    
   
 
