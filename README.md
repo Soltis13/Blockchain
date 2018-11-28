@@ -25,6 +25,9 @@
 ### Getting Started:   
   What is Bitcoin, Blockchain and CryptoCurrenies?
   
+  A blockchain is a distributed and decentralized ledger that stores data  such as transactions, and that is publicly shared across all the nodes of its netowrk.
+  Blocks are stored with Data and Hash and a hash from teh last block.
+  
    A problem with trading in digial, how do you know the asset you have is original, has not been dublicated elsewere and is no longer in possetion by the one who gave it to you.  (The double spend problem).  Today we have trusted third parties to audit these transfactions and act as arbitors to step in if anything bad occures.  But what happens when these third parties become to big to fail and can not be trusted to act in your best interest. Enter the Bitcoin protcol where this ledger of transactions is shared with everyone.
    Digial assets on a blockchain act as physical assets in that they can be traced and identity confirmed thus elimitating the uncerttainty of counterfiting.
    
