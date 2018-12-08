@@ -47,10 +47,33 @@
 
 ### The History of Bitcoin:   
 
+  Before the 1970s, cryptography was primarily practiced in secret by military or spy agencies. But, that changed when two publications brought it into the open: the US government publication of the Data Encryption Standard and the first publicly available work on public-key cryptography, “New Directions in Cryptography” by Dr Whitfield Diffie and Dr Martin Hellman.
+
+  In the 1980s, Dr David Chaum wrote extensively on topics such as anonymous digital cash and pseudonymous reputation systems, which he described in his paper “Security without Identification: Transaction Systems to Make Big Brother Obsolete”. 
+
+  The Cypherpunks mailing list was formed at about the same time, and just a few months later, Eric Hughes published “A Cypherpunk’s Manifesto“.
+
+  He wrote:
+
+    “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.”
+
   Bitcoin Guide ( https://www.upfolio.com/ultimate-bitcoin-guide )
+  Rise of the CypherPunks ( https://www.coindesk.com/the-rise-of-the-cypherpunks )
+  Crypto Anarchy ( https://cryptoanarchy.wiki/ )
+
+  The Complete Satoshi ( https://satoshi.nakamotoinstitute.org/ )
+  Historical Literature ( https://nakamotoinstitute.org/literature/ )
+  Essay on Bitcoin ( https://www.essaysonbitcoin.com/ )
+  What is driving Cryptocurreny ( https://iterative.capital/thesis/ )
 
 
-### News Sites:   
+### News Sites:  
+  Coin Desk ( https://www.coindesk.com/ )
+  Coin Telegram ( https://cointelegraph.com/ )
+  Coin Insider ( https://www.coininsider.com/ )
+  Hodlr news ( https://news.hodlhodl.com/) 
+  ccn ( https://www.ccn.com/ )
+
 
 
 ### Podcasts:   
@@ -74,8 +97,15 @@
 ### Mining:   
  
 
-### Deep Dive Technical Resources:   
+### Deep Dive Technical Resources: 
 
+Introduction to Cryptography ( https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos )
+
+Full Cryptography Primer Courses ( https://cryptoanarchy.wiki/sources/full-cryptography-primer-courses )
+
+OpenPrivacy.org ( https://www.openprivacy.org/ )
+
+ 
 
 ### Developer Tools:   
 
