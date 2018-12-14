@@ -13,12 +13,7 @@
     https://github.com/blockchainmanc/blockchain-reading-list   
     https://medium.com/@daniel.mason/evergreen-blockchain-reading-list-5c6cba2ed007   
   
-    
-  Ethereum   
-  Ripple/Stellar   
-  EOS   
-    https://github.com/EOSEssentials
-    http://iang.org/papers/EOS_An_Introduction.pdf
+  Ethereum
     
 
 
