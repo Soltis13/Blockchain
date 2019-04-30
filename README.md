@@ -74,7 +74,7 @@
 
 ### Podcasts:   
 
-    Bitcoin Knowledge Podcast - https://www.bitcoin.kn/
+    Bitcoin Knowledge Podcast - ( https://www.bitcoin.kn/ )
     Citizen Bitcoin - https://citizenbitcoin.simplecast.com/
     Epicenter Bitcoin - https://epicenter.tv/
     Let's Talk Bitcoin - https://letstalkbitcoin.com/
