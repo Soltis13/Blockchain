@@ -53,40 +53,40 @@ https://medium.com/@daniel.mason/evergreen-blockchain-reading-list-5c6cba2ed007
 
     “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.”
 
-  Bitcoin Guide ( https://www.upfolio.com/ultimate-bitcoin-guide )
-  Rise of the CypherPunks ( https://www.coindesk.com/the-rise-of-the-cypherpunks )
-  Crypto Anarchy ( https://cryptoanarchy.wiki/ )
+  Bitcoin Guide ( https://www.upfolio.com/ultimate-bitcoin-guide )   
+  Rise of the CypherPunks ( https://www.coindesk.com/the-rise-of-the-cypherpunks )   
+  Crypto Anarchy ( https://cryptoanarchy.wiki/ )   
 
-  The Complete Satoshi ( https://satoshi.nakamotoinstitute.org/ )
-  Historical Literature ( https://nakamotoinstitute.org/literature/ )
-  Essay on Bitcoin ( https://www.essaysonbitcoin.com/ )
-  What is driving Cryptocurreny ( https://iterative.capital/thesis/ )
+  The Complete Satoshi ( https://satoshi.nakamotoinstitute.org/ )   
+  Historical Literature ( https://nakamotoinstitute.org/literature/ )   
+  Essay on Bitcoin ( https://www.essaysonbitcoin.com/ )   
+  What is driving Cryptocurreny ( https://iterative.capital/thesis/ )   
 
 
-### News Sites:  
-  Coin Desk ( https://www.coindesk.com/ )
-  Coin Telegram ( https://cointelegraph.com/ )
-  Coin Insider ( https://www.coininsider.com/ )
-  Hodlr news ( https://news.hodlhodl.com/) 
-  ccn ( https://www.ccn.com/ )
+### News Sites:    
+  Coin Desk ( https://www.coindesk.com/ )   
+  Coin Telegram ( https://cointelegraph.com/ )   
+  Coin Insider ( https://www.coininsider.com/ )   
+  Hodlr news ( https://news.hodlhodl.com/)    
+  ccn ( https://www.ccn.com/ )   
 
 
 
 ### Podcasts:   
 
-Bitcoin Knowledge Podcast ( https://www.bitcoin.kn/ )
-Citizen Bitcoin ( https://citizenbitcoin.simplecast.com/ )
-Epicenter Bitcoin ( https://epicenter.tv/ )
-Let's Talk Bitcoin ( https://letstalkbitcoin.com/ )
-Noded ( https://noded.org/ )
-Off the Chain ( https://podcasts.apple.com/us/podcast/off-the-chain/id1434060078 )
-Tales from the Crypt ( https://talesfromthecrypt.libsyn.com/ )
-Unchained ( https://unchainedpodcast.com/ )
-Unconfirmed
-Unhashed Podcast
-What Bitcoin Did
-Bitcoin and Markets
-World Crypto Network
+Bitcoin Knowledge Podcast ( https://www.bitcoin.kn/ )  
+Citizen Bitcoin ( https://citizenbitcoin.simplecast.com/ )  
+Epicenter Bitcoin ( https://epicenter.tv/ )   
+Let's Talk Bitcoin ( https://letstalkbitcoin.com/ )   
+Noded ( https://noded.org/ )   
+Off the Chain ( https://podcasts.apple.com/us/podcast/off-the-chain/id1434060078 )   
+Tales from the Crypt ( https://talesfromthecrypt.libsyn.com/ )   
+Unchained ( https://unchainedpodcast.com/ )   
+Unconfirmed   
+Unhashed Podcast   
+What Bitcoin Did   
+Bitcoin and Markets  
+World Crypto Network   
 
 
 ### Discussion Forums:   
@@ -109,11 +109,11 @@ World Crypto Network
 
 ### Deep Dive Technical Resources: 
 
-Introduction to Cryptography ( https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos )
+Introduction to Cryptography ( https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos )   
 
-Full Cryptography Primer Courses ( https://cryptoanarchy.wiki/sources/full-cryptography-primer-courses )
+Full Cryptography Primer Courses ( https://cryptoanarchy.wiki/sources/full-cryptography-primer-courses )   
 
-OpenPrivacy.org ( https://www.openprivacy.org/ )
+OpenPrivacy.org ( https://www.openprivacy.org/ )   
 
  
 
@@ -130,7 +130,7 @@ OpenPrivacy.org ( https://www.openprivacy.org/ )
 
 
 ### Online Courses:  
-  Binance  ( https://www.binance.vision/ )
+  Binance  ( https://www.binance.vision/ )   
 
 
 ### Documentaries:   
@@ -140,12 +140,12 @@ OpenPrivacy.org ( https://www.openprivacy.org/ )
 
 
 ### Blogs:   
-  Fresh
-  Bitcoin tech Weekly ( https://bitcointechweekly.com/ )
-  Bitmex Research ( https://blog.bitmex.com/category/research/?lang=en_us )
-  https://medium.com/@cburniske
-  https://thecontrol.co/
-  http://financialcryptography.com/
+  Fresh   
+  Bitcoin tech Weekly ( https://bitcointechweekly.com/ )   
+  Bitmex Research ( https://blog.bitmex.com/category/research/?lang=en_us )   
+  https://medium.com/@cburniske   
+  https://thecontrol.co/   
+  http://financialcryptography.com/   
   
   Old
   https://bitfury.com/docs
@@ -165,7 +165,7 @@ OpenPrivacy.org ( https://www.openprivacy.org/ )
 
 ### Advanced Trading: 
 
-  https://avc.com/
+  https://avc.com/   
 
 
 ### Realtime Exchange Data:   
@@ -179,8 +179,7 @@ OpenPrivacy.org ( https://www.openprivacy.org/ )
 
 ### Economics:   
 
-  https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
-
+  https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html   
 
 ### Bitcoin Forks:   
 
